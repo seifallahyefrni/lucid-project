@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Black_transparent_50_percent">#E6000000</color>
+    <color name="Black_transparent_90_percent">#E6000000</color>
+    <color name="Black_transparent_dark">#E6000000</color>
+    <color name="White_transparent_50_percent">#E6000000</color>
+    <color name="transparent_black_percent_5">#E6000000</color>
+    <color name="holo_blue_light">#E6000000</color>
+    <color name="holo_red_light">#E6000000</color>
+    <color name="holo_blue_dark">#E6000000</color>
+    <color name="gray">#E6000000</color>
+    <color name="white">#E6000000</color>
+    <color name="dark">#E6000000</color>/
+    <color name="material_light_gray">#E6000000</color>
+
+    <color name="urlback">#E6000000</color>
+    <color name="urlfront">#E6000000</color>
+
+    <color name="sv_backgroundColor">#F50A39B1</color>
+
+</resources>

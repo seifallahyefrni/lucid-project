@@ -1,0 +1,235 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:2:1-108:12
+	package
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:5:5-31
+		INJECTED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\seif\.android\build-cache\476489640e2a332a60d2649e4ba683b4ad0a1050\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\seif\.android\build-cache\3c504289740ccfccc57ab090b61695c92d21d225\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\seif\.android\build-cache\710548f85fb73d647cbcfe917ab631efb1b3820c\output\AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\seif\.android\build-cache\9f7c8f04fbbeaa797fe5972c084983a78d8a220e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\seif\.android\build-cache\5a170efd140221673fca6eb9976d017636cb16ef\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\seif\.android\build-cache\f717d722c0cf8119ce292b9ded782ef9430f5349\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\seif\.android\build-cache\4965e5781f3bcf5d45527b2bd7e1161a3ce18412\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\seif\.android\build-cache\13117d6486ed2cf9d2f3e10139d451d198d80be0\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\seif\.android\build-cache\24f7363c6ccb7b411371225fe9104a9ce1f3b2b2\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\seif\.android\build-cache\d9875fb336e62e28fd7ef9a0db55b44e18793891\output\AndroidManifest.xml:17:5-42
+MERGED from [com.github.amlcurran.showcaseview:library:5.4.3] C:\Users\seif\.android\build-cache\5d083931b2a49043cf103931283f6b35745589e2\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\seif\.android\build-cache\ade92d856e021ede7bc4dabf8655a4700e04231a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\seif\.android\build-cache\66d954b98202abf2f1da2df7cff05d82bd5e6c93\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\seif\.android\build-cache\dcbf6556c9099ffe72ff4b612d0eb3b68f4c6ae3\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\seif\.android\build-cache\0754b6ee7dc818277a1871fe8944677934663adc\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\seif\.android\build-cache\50833c0a21ac6086d430265311481c91cf6433f6\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\seif\.android\build-cache\914a3d6d49d01e906b1bb4505edc6e9ebab4107d\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\seif\.android\build-cache\476489640e2a332a60d2649e4ba683b4ad0a1050\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:11:4-77
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\seif\.android\build-cache\5a170efd140221673fca6eb9976d017636cb16ef\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:11:21-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:12:4-65
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\seif\.android\build-cache\5a170efd140221673fca6eb9976d017636cb16ef\output\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:12:21-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:13:4-79
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:13:21-77
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:14:4-79
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:14:21-76
+uses-permission#com.android.browser.permission.READ_HISTORY_BOOKMARKS
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:15:5-93
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:15:22-90
+application
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:17:5-106:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\seif\.android\build-cache\476489640e2a332a60d2649e4ba683b4ad0a1050\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\seif\.android\build-cache\3c504289740ccfccc57ab090b61695c92d21d225\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\seif\.android\build-cache\710548f85fb73d647cbcfe917ab631efb1b3820c\output\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\seif\.android\build-cache\5a170efd140221673fca6eb9976d017636cb16ef\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\seif\.android\build-cache\f717d722c0cf8119ce292b9ded782ef9430f5349\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\seif\.android\build-cache\4965e5781f3bcf5d45527b2bd7e1161a3ce18412\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\seif\.android\build-cache\13117d6486ed2cf9d2f3e10139d451d198d80be0\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\seif\.android\build-cache\24f7363c6ccb7b411371225fe9104a9ce1f3b2b2\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\seif\.android\build-cache\d9875fb336e62e28fd7ef9a0db55b44e18793891\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\seif\.android\build-cache\ade92d856e021ede7bc4dabf8655a4700e04231a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\seif\.android\build-cache\66d954b98202abf2f1da2df7cff05d82bd5e6c93\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\seif\.android\build-cache\dcbf6556c9099ffe72ff4b612d0eb3b68f4c6ae3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\seif\.android\build-cache\0754b6ee7dc818277a1871fe8944677934663adc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\seif\.android\build-cache\50833c0a21ac6086d430265311481c91cf6433f6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\seif\.android\build-cache\914a3d6d49d01e906b1bb4505edc6e9ebab4107d\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:21:9-38
+	android:hardwareAccelerated
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:20:9-45
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:24:9-25:71
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\seif\.android\build-cache\d9875fb336e62e28fd7ef9a0db55b44e18793891\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:25:16-69
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:24:20-65
+activity#com.powerpoint45.lucidbrowser.MainActivity
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:26:9-54:20
+	android:label
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:27:13-42
+	android:stateNotNeeded
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:31:13-42
+	android:launchMode
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:30:13-44
+	android:configChanges
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:29:13-74
+	android:theme
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:32:13-44
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:28:13-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:35:27-74
+intent-filter#android.intent.action.WEB_SEARCH+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:38:13-45:29
+action#android.intent.action.WEB_SEARCH
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:39:17-75
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:39:25-72
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:40:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:41:17-78
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:41:27-75
+data
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:42:17-43
+	android:scheme
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:42:23-40
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:47:13-53:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:48:25-66
+activity#com.powerpoint45.lucidbrowser.BookmarksActivity
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:58:9-67:20
+	android:label
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:59:13-46
+	android:configChanges
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:61:13-74
+	android:theme
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:62:13-52
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:60:13-75
+intent-filter#android.intent.category.DEFAULT+com.powerpoint45.lucidbrowser.BookmarksActivity
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:63:13-66:29
+action#com.powerpoint45.lucidbrowser.BookmarksActivity
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:64:17-90
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:64:25-87
+activity#com.powerpoint45.lucidbrowser.SettingsV2
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:69:9-78:20
+	android:label
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:70:13-50
+	android:configChanges
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:73:13-74
+	android:theme
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:71:13-47
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:72:13-68
+intent-filter#android.intent.category.DEFAULT+com.powerpoint45.lucidbrowser.SettingsV2
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:74:13-77:29
+action#com.powerpoint45.lucidbrowser.SettingsV2
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:75:17-83
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:75:25-80
+activity#com.powerpoint45.lucidbrowser.ImportBookmarksActivity
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:80:9-89:20
+	android:label
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:81:13-62
+	android:configChanges
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:84:13-74
+	android:theme
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:82:13-47
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:83:13-81
+intent-filter#android.intent.category.DEFAULT+com.powerpoint45.lucidbrowser.ImportBookmarksActivity
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:85:13-88:29
+action#com.powerpoint45.lucidbrowser.ImportBookmarksActivity
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:86:17-96
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:86:25-93
+activity#com.powerpoint45.lucidbrowser.OpenFileActivity
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:91:9-100:20
+	android:label
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:92:13-53
+	android:configChanges
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:95:13-74
+	android:theme
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:93:13-47
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:94:13-74
+intent-filter#android.intent.category.DEFAULT+com.powerpoint45.lucidbrowser.OpenFileActivity
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:96:13-99:29
+action#com.powerpoint45.lucidbrowser.OpenFileActivity
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:97:17-89
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:97:25-86
+activity#com.google.android.gms.ads.AdActivity
+ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:103:9-104:125
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\seif\.android\build-cache\5a170efd140221673fca6eb9976d017636cb16ef\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:104:14-123
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\seif\.android\build-cache\5a170efd140221673fca6eb9976d017636cb16ef\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from C:\Users\seif\Desktop\Lucid-Browser-master\app\src\main\AndroidManifest.xml:103:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\seif\.android\build-cache\5a170efd140221673fca6eb9976d017636cb16ef\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\seif\.android\build-cache\5a170efd140221673fca6eb9976d017636cb16ef\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\seif\.android\build-cache\5a170efd140221673fca6eb9976d017636cb16ef\output\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\seif\.android\build-cache\4965e5781f3bcf5d45527b2bd7e1161a3ce18412\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\seif\.android\build-cache\4965e5781f3bcf5d45527b2bd7e1161a3ce18412\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\seif\.android\build-cache\4965e5781f3bcf5d45527b2bd7e1161a3ce18412\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\seif\.android\build-cache\4965e5781f3bcf5d45527b2bd7e1161a3ce18412\output\AndroidManifest.xml:19:19-85

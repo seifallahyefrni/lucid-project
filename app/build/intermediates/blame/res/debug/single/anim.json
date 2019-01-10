@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\home\\michael\\StudioProjects\\LucidBrowser\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\home\\michael\\.android\\build-cache\\63d70774a67f0bb783cdadde61c8ac0b4e446692\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\home\\michael\\StudioProjects\\LucidBrowser\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\home\\michael\\.android\\build-cache\\63d70774a67f0bb783cdadde61c8ac0b4e446692\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\home\\michael\\StudioProjects\\LucidBrowser\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\home\\michael\\.android\\build-cache\\63d70774a67f0bb783cdadde61c8ac0b4e446692\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\seif\\.android\\build-cache\\476489640e2a332a60d2649e4ba683b4ad0a1050\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\seif\\.android\\build-cache\\476489640e2a332a60d2649e4ba683b4ad0a1050\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\home\\michael\\StudioProjects\\LucidBrowser\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\home\\michael\\.android\\build-cache\\63d70774a67f0bb783cdadde61c8ac0b4e446692\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\seif\\.android\\build-cache\\476489640e2a332a60d2649e4ba683b4ad0a1050\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\home\\michael\\StudioProjects\\LucidBrowser\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
+        "source": "C:\\home\\michael\\StudioProjects\\LucidBrowser\\app\\src\\main\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
+        "source": "C:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\src\\main\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
+        "source": "C:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\src\\main\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\seif\\.android\\build-cache\\476489640e2a332a60d2649e4ba683b4ad0a1050\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\seif\\.android\\build-cache\\476489640e2a332a60d2649e4ba683b4ad0a1050\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\home\\michael\\StudioProjects\\LucidBrowser\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\home\\michael\\.android\\build-cache\\63d70774a67f0bb783cdadde61c8ac0b4e446692\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\home\\michael\\StudioProjects\\LucidBrowser\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
+        "source": "C:\\home\\michael\\StudioProjects\\LucidBrowser\\app\\src\\main\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "C:\\home\\michael\\StudioProjects\\LucidBrowser\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\home\\michael\\.android\\build-cache\\63d70774a67f0bb783cdadde61c8ac0b4e446692\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\seif\\.android\\build-cache\\476489640e2a332a60d2649e4ba683b4ad0a1050\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\home\\michael\\StudioProjects\\LucidBrowser\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\home\\michael\\.android\\build-cache\\63d70774a67f0bb783cdadde61c8ac0b4e446692\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\seif\\.android\\build-cache\\476489640e2a332a60d2649e4ba683b4ad0a1050\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\home\\michael\\StudioProjects\\LucidBrowser\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\home\\michael\\.android\\build-cache\\63d70774a67f0bb783cdadde61c8ac0b4e446692\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\seif\\.android\\build-cache\\476489640e2a332a60d2649e4ba683b4ad0a1050\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\home\\michael\\StudioProjects\\LucidBrowser\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\home\\michael\\.android\\build-cache\\63d70774a67f0bb783cdadde61c8ac0b4e446692\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\seif\\.android\\build-cache\\476489640e2a332a60d2649e4ba683b4ad0a1050\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\home\\michael\\StudioProjects\\LucidBrowser\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\home\\michael\\.android\\build-cache\\63d70774a67f0bb783cdadde61c8ac0b4e446692\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\seif\\.android\\build-cache\\476489640e2a332a60d2649e4ba683b4ad0a1050\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    }
+]

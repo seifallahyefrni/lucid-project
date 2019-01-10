@@ -1,0 +1,7 @@
+#Wed Jan 09 21:05:29 CET 2019
+base.0=C\:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a525d09cab11486ea98cacd09160010d23f9d2df
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c01b9fcc910cd502f9793532cbc45abb386466d5\\classes.dex
+base.1=C\:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c01b9fcc910cd502f9793532cbc45abb386466d5
+file.0=C\:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a525d09cab11486ea98cacd09160010d23f9d2df\\classes.dex

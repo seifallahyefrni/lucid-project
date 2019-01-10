@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\seif\.android\build-cache\4965e5781f3bcf5d45527b2bd7e1161a3ce18412\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65051dc96523cb4430d93bf5d00fcfdbf30d872d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="621ff02399fb90661e1f7b310e06fad46b22ca0c">
+        <dex dex="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a525d09cab11486ea98cacd09160010d23f9d2df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seif\.android\build-cache\dcbf6556c9099ffe72ff4b612d0eb3b68f4c6ae3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e6aee47a2b288552cd004b3494f31e18c205940\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seif\.android\build-cache\d9875fb336e62e28fd7ef9a0db55b44e18793891\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3edbf4dd99335d2422b7f30420c2f7e29dc6b25f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seif\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_77f46e028c153151475102a6214f5c19cd41fe00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seif\.android\build-cache\ade92d856e021ede7bc4dabf8655a4700e04231a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f770a754924701f56797f2b772efb652fb15ce7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seif\.android\build-cache\476489640e2a332a60d2649e4ba683b4ad0a1050\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bbba8d96166dfd4388585017b4ae1ebe384d0a60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seif\.android\build-cache\13117d6486ed2cf9d2f3e10139d451d198d80be0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a6a33152ece7169c9df22223d1097281ab14dfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seif\.android\build-cache\24f7363c6ccb7b411371225fe9104a9ce1f3b2b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d8de7c7e720c33a8c61578d32001483a1e7f7ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seif\.android\build-cache\9f7c8f04fbbeaa797fe5972c084983a78d8a220e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d70078a6f3d3443ad8abc7d631f581a8a9dc45c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seif\.android\build-cache\5d083931b2a49043cf103931283f6b35745589e2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a06b0579dbe59192ef460e3de04657720925d05b">
+        <dex dex="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4becede59e90fcf4484af8c8d05e29ed230377a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seif\.android\build-cache\66d954b98202abf2f1da2df7cff05d82bd5e6c93\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ccbc790c74a0982da11b69998f0a11141f96f0c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seif\.android\build-cache\50833c0a21ac6086d430265311481c91cf6433f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76742d0e08e75e606839acdf5df76aec82e0ceb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seif\.android\build-cache\710548f85fb73d647cbcfe917ab631efb1b3820c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce0ee269a8e07e208caa0a1d7c0e44f927af9b0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c01b9fcc910cd502f9793532cbc45abb386466d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seif\.android\build-cache\914a3d6d49d01e906b1bb4505edc6e9ebab4107d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50cc4df083df6f31c17c2910d64791bd33aa0a9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seif\.android\build-cache\f717d722c0cf8119ce292b9ded782ef9430f5349\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0586d7efb256b57a1ddbff5c658be9003f39124\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seif\.android\build-cache\5a170efd140221673fca6eb9976d017636cb16ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46598b73fb1f6c50bc32727107e41c852db02c8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seif\.android\build-cache\3c504289740ccfccc57ab090b61695c92d21d225\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_25d2d33156ac437ab95f29f7b3d9866b61853c71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seif\.android\build-cache\0754b6ee7dc818277a1871fe8944677934663adc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\seif\Desktop\Lucid-Browser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59f5e777e0322950cc369574f985dd30257409ce\classes.dex" />
+    </item>
+
+</items>

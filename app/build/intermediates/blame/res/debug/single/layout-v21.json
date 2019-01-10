@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\seif\\.android\\build-cache\\476489640e2a332a60d2649e4ba683b4ad0a1050\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\home\\michael\\StudioProjects\\LucidBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\home\\michael\\.android\\build-cache\\63d70774a67f0bb783cdadde61c8ac0b4e446692\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\seif\\.android\\build-cache\\476489640e2a332a60d2649e4ba683b4ad0a1050\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\home\\michael\\StudioProjects\\LucidBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\home\\michael\\.android\\build-cache\\63d70774a67f0bb783cdadde61c8ac0b4e446692\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\home\\michael\\StudioProjects\\LucidBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\home\\michael\\.android\\build-cache\\63d70774a67f0bb783cdadde61c8ac0b4e446692\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\home\\michael\\StudioProjects\\LucidBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\home\\michael\\.android\\build-cache\\63d70774a67f0bb783cdadde61c8ac0b4e446692\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\seif\\.android\\build-cache\\476489640e2a332a60d2649e4ba683b4ad0a1050\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\seif\\Desktop\\Lucid-Browser-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\seif\\.android\\build-cache\\476489640e2a332a60d2649e4ba683b4ad0a1050\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]
